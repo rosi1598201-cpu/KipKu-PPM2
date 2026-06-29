@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "FinMahasiswa",
+    "slug": "kipku-app",
+    "android": {
+      "package": "com.kipku.app"
+    }
+  }
+}
